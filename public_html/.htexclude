@@ -1,11 +1,9 @@
 .htaccess
-.wp-config.php
-.git/
+.git
 .gitignore
 .vscode
 .idea
 *.tar.gz
 *.sql
 *.log
-
-
+wp-config.php
