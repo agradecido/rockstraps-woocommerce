@@ -1,0 +1,1053 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vignette\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-25 20:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: vignette"
+
+#. 1: plugin name.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:112
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:120
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#. 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/merlin/class-merlin.php:246
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/class-merlin.php:262
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:257 inc/tgmpa/class-tgmpa-list-table.php:660
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgmpa-list-table.php:546
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/class-merlin.php:260
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1751
+msgid "Activating"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:255
+msgid "Active"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:285 inc/merlin/class-merlin.php:288
+msgid "Advanced"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2092
+msgid "After import setup"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2093
+msgid "After import setup."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:289
+msgid "All done. Have fun!"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:113
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:121
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Error note.
+#: inc/merlin/includes/class-merlin-downloader.php:79
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:104
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1537 inc/merlin/class-merlin.php:1578
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/extras.php:31
+msgid "Archives"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:416
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:444
+msgid "Available version:"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:279
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:280
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/merlin/class-merlin.php:252
+msgid "Cancel"
+msgstr ""
+
+#: inc/merlin/importer/WXRImporter.php:606
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:787 inc/merlin/class-merlin.php:2001
+msgid "Content"
+msgstr ""
+
+#: inc/merlin/importer/WXRImporter.php:202
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2080
+msgid "CPTUI framework options."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2079
+msgid "CPTUI Options"
+msgstr ""
+
+#: inc/extras.php:25
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/wc-functions.php:70
+msgid "Default"
+msgstr ""
+
+#: inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2002
+msgid "Demo content data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:248
+msgid "Disable this wizard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/class-merlin.php:264
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1878
+msgid "Error"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:66
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#. Costumizer note.
+#: inc/merlin/includes/class-merlin-customizer-importer.php:53
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:76
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:82
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:101
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:68
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:79
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:229
+msgid "External Source"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:292
+msgid "Extras"
+msgstr ""
+
+#: inc/patterns/products-featured.php:6
+msgid "Featured products carousel"
+msgstr ""
+
+#: inc/patterns/features.php:6
+msgid "Features Pattern"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:294
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:271
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:128
+msgid "Hide Details"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://vivathemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://woocommerce.com/products/vignette/"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:256
+msgid "Import"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:286
+msgid "Import Content"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:251
+msgid "Imported"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:254
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:253 inc/merlin/class-merlin.php:254
+#: inc/merlin/class-merlin.php:255 inc/tgmpa/class-tgmpa-list-table.php:651
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgmpa-list-table.php:535
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:274
+msgid "Install Child Theme"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:281
+#: inc/tgmpa/class-tgm-plugin-activation.php:329
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/tgmpa/class-tgmpa-list-table.php:276
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:253
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:424
+msgid "Installed version:"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1783 inc/merlin/class-merlin.php:1792
+#: inc/merlin/class-merlin.php:2004 inc/merlin/class-merlin.php:2017
+#: inc/merlin/class-merlin.php:2030 inc/merlin/class-merlin.php:2043
+#: inc/merlin/class-merlin.php:2056 inc/merlin/class-merlin.php:2069
+#: inc/merlin/class-merlin.php:2082 inc/merlin/class-merlin.php:2095
+#: inc/merlin/class-merlin.php:2140
+msgid "Installing"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:115
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:123
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1827
+msgid "Invalid content!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1896 inc/merlin/class-merlin.php:2500
+msgid "Invalid data!"
+msgstr ""
+
+#: inc/merlin/importer/WXRImporter.php:928
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/patterns/header-large.php:6
+msgid "Large header"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:258
+msgid "Later"
+msgstr ""
+
+#: inc/wc-functions.php:71
+msgid "Latest"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:278
+msgid "Learn about child themes"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:276
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:287
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:283
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:773
+msgid "License"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:265
+msgid "License key"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:432
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:60
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/extras.php:23
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:268
+msgid "Need help?"
+msgstr ""
+
+#: inc/patterns/products-new.php:6
+msgid "New products carousel"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:250
+msgid "Next"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:391
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:869
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:734
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:736
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:467
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:843
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:691
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:693
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:322
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:260
+msgid "No Title"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:249
+msgid "Not Installed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2067
+msgid "Option Tree framework options."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2066
+msgid "Option Tree Options"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2040
+msgid "Options"
+msgstr ""
+
+#: inc/patterns/partners.php:6
+msgid "Partners"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2003 inc/merlin/class-merlin.php:2016
+#: inc/merlin/class-merlin.php:2029 inc/merlin/class-merlin.php:2042
+#: inc/merlin/class-merlin.php:2055 inc/merlin/class-merlin.php:2068
+#: inc/merlin/class-merlin.php:2081 inc/merlin/class-merlin.php:2094
+msgid "Pending"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1028
+#: inc/tgmpa/class-tgm-plugin-activation.php:1038
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:657
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:652
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:481
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1225
+#: inc/tgmpa/class-tgmpa-list-table.php:883
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer.php:86
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer.php:85
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:780
+msgid "Plugins"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgmpa/class-tgmpa-list-table.php:322
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/wc-functions.php:72
+msgid "Popularity"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:232
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/wc-functions.php:74
+msgid "Price: High to Low"
+msgstr ""
+
+#: inc/wc-functions.php:73
+msgid "Price: Low to High"
+msgstr ""
+
+#: inc/patterns/process-block.php:6
+msgid "Process, text and video"
+msgstr ""
+
+#: inc/patterns/products-onsale.php:6
+msgid "Products on sale carousel"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:792
+msgid "Ready"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:210
+msgid "Recommended"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2054
+msgid "Redux framework options."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2053
+msgid "Redux Options"
+msgstr ""
+
+#. remote file string.
+#: inc/merlin/importer/WXRImporter.php:1640
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#. remote server string.
+#: inc/merlin/importer/WXRImporter.php:1615
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1156
+msgid "req"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1155 inc/tgmpa/class-tgmpa-list-table.php:207
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:261
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:264
+msgid "Requires Update"
+msgstr ""
+
+#. Description of the theme
+msgid "Responsive full site editing theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:247
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2027
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2028
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2041
+msgid "Sample theme options data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2015
+msgid "Sample widgets data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1255
+msgid "See "
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1252
+msgid "See All Demos"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1245
+msgid "Select Demo"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:720
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:128
+msgid "Show Details"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:139
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:160
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:249
+msgid "Skip"
+msgstr ""
+
+#: inc/patterns/header-small.php:6
+msgid "Small header with image background"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:502
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:482
+msgid "Source"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:251
+msgid "Start"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:488
+msgid "Status"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1800 inc/merlin/class-merlin.php:2005
+#: inc/merlin/class-merlin.php:2018 inc/merlin/class-merlin.php:2031
+#: inc/merlin/class-merlin.php:2044 inc/merlin/class-merlin.php:2057
+#: inc/merlin/class-merlin.php:2070 inc/merlin/class-merlin.php:2083
+#: inc/merlin/class-merlin.php:2096
+msgid "Success"
+msgstr ""
+
+#: inc/patterns/team.php:6
+msgid "Team Members"
+msgstr ""
+
+#. %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2091
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/merlin/importer/WXRImporter.php:477
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:389
+#: inc/tgmpa/class-tgmpa-list-table.php:887
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:110
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:106
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:118
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1038
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:284
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:266
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:244
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#. 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. EDD Item Name
+#: inc/merlin/class-merlin.php:1570
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1560
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: inc/patterns/hidden-404.php:12
+msgid "This page could not be found."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:604
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/merlin/class-merlin.php:272
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgmpa/class-tgmpa-list-table.php:334
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/tgmpa/class-tgmpa-list-table.php:326
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:483
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:657
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgmpa-list-table.php:540
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgmpa/class-tgmpa-list-table.php:330
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:267
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:605
+msgid "Update Required"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1767
+msgid "Updating"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgmpa-bulk-installer-skin.php:101
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:618
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:487
+msgid "Version"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:293
+msgid "View your website"
+msgstr ""
+
+#. Name of the theme
+#: inc/block-patterns.php:14
+msgid "Vignette"
+msgstr ""
+
+#. Author of the theme
+msgid "Viva Themes"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:766
+msgid "Welcome"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/class-merlin.php:270
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:193
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2014
+msgid "Widgets"
+msgstr ""
+
+#: inc/tgmpa/class-tgmpa-list-table.php:226
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/extras.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:273
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:275
+msgid "You're good to go!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:282
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:277
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1565
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. Expiration date
+#: inc/merlin/class-merlin.php:1550
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1556
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1574
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#. Theme Author
+#: inc/merlin/class-merlin.php:291
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:267
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: inc/merlin/importer/WXRImporter.php:1634
+msgid "Zero size file downloaded"
+msgstr ""

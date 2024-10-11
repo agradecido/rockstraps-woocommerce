@@ -17,6 +17,7 @@ body {
     background-color: #1a1a1a; /* Fondo oscuro */
     color: #f1f1f1; /* Texto claro */
     font-family: 'Montserrat', sans-serif; /* Fuente moderna */
+    font-size: 16px;
 }
 
 /* Encabezados */
@@ -36,6 +37,11 @@ h1 {
 h2 {
     font-size: 2.5rem;
     margin-bottom: 1.2rem;
+}
+
+h2, .beta {
+    font-size: 2.5em;
+    line-height: .75
 }
 
 h3 {
@@ -61,16 +67,31 @@ h3 {
     display: inline-block;
     text-align: left;
 }
+
+.site-branding {
+    float: left;
+    margin-bottom: 0;
+    width: 100px;
+    @media screen and (min-width: 768px) {
+        width: calc(100% - 120px);
+    }
+}
+
 .site-title {
     text-align: center;
 }
 
 .site-title a {
-    font-size: 2.4rem;
+    font-size: 1rem;
     color: rgb(249, 212, 68);
     font-family: 'Playfair Display', serif;
     font-weight: 700;
+    @media screen and (min-width: 768px) {
+        font-size: 3.4rem;
+    }
 }
+
+
 
 .main-navigation {
     display: inline-block;
@@ -129,8 +150,14 @@ h3 {
 /* Fondo hero (encabezado grande con imagen de fondo) */
 /* Ajustar el hero para que no se meta debajo de la cabecera */
 .hero {
-    background: url('/wp-content/uploads/2024/10/old-car-2737184_1920.png') no-repeat center center;
     background-size: cover;
+    background: url('/wp-content/uploads/2024/10/strap-brown-leather-01.png') no-repeat center;
+    /*
+    background-position-x: 20%;
+     */
+    /*
+    background-position-y: 90%;
+     */
     height: 100vh;
     display: flex;
     align-items: center;
@@ -138,7 +165,6 @@ h3 {
     flex-direction: column;
     color: #ffffff;
     text-align: center;
-    margin-top: 180px; /* Ajustamos el margen superior a la altura de la cabecera */
 }
 
 .hero-content h1 {
