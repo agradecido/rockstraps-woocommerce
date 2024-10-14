@@ -1,0 +1,16 @@
+*** Vignette Theme Changelog ***
+
+2024-09-26 - version 1.0.4
+* CSS fix to large header template
+
+2023-10-25 - version 1.0.3
+* Assigns main menu to navigation block on setup. Small css changes
+
+2023-10-25 - version 1.0.2
+* Adds one-click demo import
+
+2023-10-08 - version 1.0.1
+* Adds WooCommerce legacy templates
+
+2022-11-09 - version 1.0
+* Initial release

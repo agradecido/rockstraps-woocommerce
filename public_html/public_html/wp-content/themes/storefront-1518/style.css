@@ -1,0 +1,280 @@
+/*
+ Theme Name:   Storefront 1518
+ Theme URI:    https://rockstraps1518.com
+ Description:  Tema hijo de Storefront con diseño oscuro y elegante
+ Author:       Javier Sierra - agradecido@manerasdevivir.com
+ Author URI:   https://rockstraps1518.com
+ Template:     storefront
+ Version:      1.0
+ Text Domain:  storefront-1518
+*/
+
+/* Importar Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Lora:wght@400;700&display=swap');
+
+/* Estilos generales */
+body {
+    background-color: #1a1a1a; /* Fondo oscuro */
+    color: #f1f1f1; /* Texto claro */
+    font-family: 'Montserrat', sans-serif; /* Fuente moderna */
+    font-size: 16px;
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif; /* Fuente elegante para encabezados */
+    color: #f7b731; /* Color dorado para los encabezados */
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    color: rgb(249, 212, 68);
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.2rem;
+}
+
+h2, .beta {
+    font-size: 2.5em;
+    line-height: .75
+}
+
+h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Estilo del header */
+.site-header {
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #444;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.site-branding {
+    display: inline-block;
+    text-align: left;
+}
+
+.site-branding {
+    float: left;
+    margin-bottom: 0;
+    width: 100px;
+    @media screen and (min-width: 768px) {
+        width: calc(100% - 120px);
+    }
+}
+
+.site-title {
+    text-align: center;
+}
+
+.site-title a {
+    font-size: 1rem;
+    color: rgb(249, 212, 68);
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    @media screen and (min-width: 768px) {
+        font-size: 3.4rem;
+    }
+}
+
+
+
+.main-navigation {
+    display: inline-block;
+    text-align: right;
+}
+
+.main-navigation ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.main-navigation a {
+    color: #ffffff !important;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: .8rem !important;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-left: 15px;
+    padding: 5px 10px;
+}
+
+.main-navigation a:hover {
+    color: #f9d342;
+}
+
+.site-description {
+    display: none; /* Eliminamos la descripción del sitio */
+}
+
+.site-search {
+    display: none; /* Eliminamos el buscador */
+}
+
+.site-header-cart {
+    display: inline-block;
+    text-align: right;
+    margin-left: 15px;
+}
+
+@media (max-width: 768px) {
+    .main-navigation ul {
+        flex-direction: column;
+    }
+}
+
+.page-template-template-homepage .type-page {
+    padding-top: 0;
+}
+.page-template-template-homepage:not(.has-post-thumbnail) .site-main {
+    padding-top: 0;
+}
+
+/* Fondo hero (encabezado grande con imagen de fondo) */
+/* Ajustar el hero para que no se meta debajo de la cabecera */
+.hero {
+    background-size: cover;
+    background: url('/wp-content/uploads/2024/10/strap-brown-leather-01.png') no-repeat center;
+    /*
+    background-position-x: 20%;
+     */
+    /*
+    background-position-y: 90%;
+     */
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #ffffff;
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 4rem;
+    color: #ffffff;
+    margin-bottom: 1rem;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+.hero-content .button {
+    background-color: #f9d342;
+    color: #1c1c1c;
+    padding: 15px 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hero-content .button:hover {
+    background-color: #ffe96e;
+}
+
+
+/* Botones */
+button, input[type="submit"], .button {
+    background-color: #f7b731;
+    color: #121212;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, input[type="submit"]:hover, .button:hover {
+    background-color: #ffcc00; /* Un dorado más claro al pasar el cursor */
+}
+
+/* WooCommerce - Productos */
+.woocommerce ul.products li.product h3,
+.woocommerce-page ul.products li.product h3 {
+    font-family: 'Lora', serif;
+    color: #f7b731; /* Títulos dorados para los productos */
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.woocommerce ul.products li.product .price,
+.woocommerce-page ul.products li.product .price {
+    color: #f1f1f1; /* Precio en color claro */
+    font-weight: 700;
+}
+
+.woocommerce ul.products li.product .button {
+    background-color: #f7b731;
+    color: #121212;
+    font-weight: 700;
+}
+
+.woocommerce ul.products li.product .button:hover {
+    background-color: #ffcc00;
+}
+
+/* Carrito */
+.woocommerce-cart table.cart th {
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+.woocommerce-cart table.cart td {
+    background-color: #1a1a1a;
+    color: #f1f1f1;
+}
+
+.woocommerce-cart .cart_totals {
+    background-color: #121212;
+    border: 1px solid #333;
+    padding: 20px;
+}
+
+.woocommerce-cart .cart_totals .order-total .amount {
+    color: #f7b731;
+}
+
+/* Pie de página */
+.site-footer {
+    background-color: #121212;
+    color: #f1f1f1;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.site-footer a {
+    color: #f7b731;
+    text-transform: uppercase;
+}
+
+.site-footer a:hover {
+    color: #ffcc00;
+}
